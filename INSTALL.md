@@ -12,4 +12,5 @@ Download using the [GitHub .zip download](https://github.com/dracula/micro/archi
 
 #### Activating theme
 
-Place [`dracula.micro`](./dracula.micro) into `~/.config/micro/colorschemes` (create the folder if it doesn't exist).
+1. Place [`dracula.micro`](./dracula.micro) into `~/.config/micro/colorschemes` (create the folder if it doesn't exist).
+2. Add `export MICRO_TRUECOLOR=1` to your shell RC file (eg. bashrc, zshrc, config.fish).
