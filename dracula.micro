@@ -1,7 +1,7 @@
 color-link default "#F8F8F2,#282A36"
 color-link comment "#6272A4"
 color-link identifier "#50FA7B"
-color-link constant "#BD93F9,#FF79C6"
+color-link constant "#BD93F9"
 color-link constant.string "#F1FA8C"
 color-link constant.string.char "#50FA7B"
 color-link statement "#FF79C6"
