@@ -12,9 +12,10 @@ All instructions can be found at [draculatheme.com/micro](https://draculatheme.c
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/micro/graphs/contributors).
 
-[![Spike](https://avatars3.githubusercontent.com/u/19519553?v=3&s=70)](https://github.com/spikecodes) | .
---- | ---
-[Spike](https://github.com/spikecodes) | .
+
+| [![Spike](https://avatars3.githubusercontent.com/u/19519553?v=3&s=70)](https://github.com/spikecodes) |
+| ------------------------------------------------------------------------------------------------------------------ |
+| [Spike](https://github.com/spikecodes)
 
 ## License
 
