@@ -2,7 +2,7 @@
 
 > A dark theme for [Micro](https://github.com/zyedidia/micro).
 
-![Screenshot](./image.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
